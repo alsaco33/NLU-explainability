@@ -1,6 +1,6 @@
-# NLU Final Project repository
+# NLU Final Project repository 
 
-This is the code repository supporting the paper entitled *Towards a holistic framework to evaluate NLP model explanations* written by Paz Vives and Alejandro Saez.
+This is the code repository supporting the paper entitled *Towards a proper understanding and interpretation of NLP explanations* written by Paz Vives and Alejandro Saez.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of contents
@@ -15,7 +15,7 @@ This is the code repository supporting the paper entitled *Towards a holistic fr
 <!-- CONTEXT -->
 ## Context of the study
 
-This paper aims to develop a holistic framework for evaluating Natural Language Processing (NLP) model explanations, considering the critical role of understanding the reasoning behind Machine Learning systems in decision-making. Although various explainability methods exist, their suitability for specific tasks and datasets remains uncertain. Additionally, the ambiguity of what qualifies as an explanation and the lack of commonly agreed-upon ground-truth labels further complicate the issue. This paper proposes an approach to assess the degree of model dependency of popular NLP explainability methods, allowing for a comprehensive evaluation across a range of supervised models, and metrics. The paper's contributions include addressing research biases, providing guidance for evaluating explainability methods, and answering key questions such as the suitability of gradient versus perturbation-based methods for determining explainability under a fixed architecture.
+This paper aims to evaluate the stability and adequacy of Natural Language Processing (NLP) model explanations, considering the critical role of understanding the reasoning behind Machine Learning systems in decision-making. Although various explainability methods exist, their suitability for specific tasks and datasets remains uncertain. Additionally, the ambiguity of what qualifies as an explanation and the lack of commonly agreed-upon ground-truth labels further complicate the issue. This paper attempts to assess the degree of model dependency of popular NLP explainability methods, allowing for a comprehensive evaluation across a range of supervised models and metrics. The paper's contributions include addressing research biases, stressing the difference in performance of most commonly used explainability methods, providing guidance for evaluating explainability methods, and answering key questions such as the suitability of gradient versus perturbation-based methods for determining explainability under a fixed architecture.
 
 <!-- RESULTS OBTAINED -->
 ## Results obtained
